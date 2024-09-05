@@ -1,7 +1,7 @@
 
 function changelogo(){
     let firstLogo = document.getElementById("logo")
-    firstLogo.setAttribute("src","./images/EntriLogo.jpg")
+    firstLogo.setAttribute("src","./images/Entri.jpg")
 }
 
 
