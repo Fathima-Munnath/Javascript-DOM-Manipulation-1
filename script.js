@@ -1,11 +1,11 @@
 
 function changelogo(){
     let firstLogo = document.getElementById("logo")
-    firstLogo.setAttribute("src","./images/untitled.jpg")
+    firstLogo.setAttribute("src","./images/EntriLogo.jpg")
 }
 
 
 function resetlogo(){
     let firstLogo = document.getElementById("logo")
-    firstLogo.setAttribute("src","./images/untitled.png")
+    firstLogo.setAttribute("src","./images/GoogleLogo.png")
 }
